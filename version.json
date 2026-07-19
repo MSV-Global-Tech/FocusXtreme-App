@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.6",
+  "latestVersion": "1.0.7",
   "isMandatory": false,
   "updateUrl": "https://play.google.com/store/apps/details?id=com.focusxtreme.app",
-  "releaseNotes": "Zero-Drift notification logic and Android performance optimization."
+  "releaseNotes": "New Game: Merge Blocks (2048-style) added! Swipe to merge tiles and reach 2048."
 }
